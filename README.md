@@ -1,10 +1,10 @@
 # pandas-challenge
 This repository consists of PyCitySchools folder which includes:
-File PyCitySchools_final.ipynb consisting of the code using pandas.
-Resources folder with provided csv file.
+-File PyCitySchools_final.ipynb consisting of the code I wrote as a solution to this challenge using pandas.
+-Resources folder with provided csv file.
 
 Note:
-Jupyter notebook was used for coding
+-Jupyter notebook was used for coding
 
 Acknowledgements:
 The below links were referenced: 
